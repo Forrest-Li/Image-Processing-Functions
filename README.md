@@ -18,8 +18,12 @@ Resize ratio (height,width):
 Example: 0.3,1.5
 > <input_size_1>,<input_size_2>
 ```
-     
 
 * Blurring/Denoising：`blur_main()`
    * 3 blurring methods will all be applied
    * processed images will be shown below
+  
+### Future update
+
+* Convert Jupyter Notebook structured program to Python files based
+* Integrate more OpenCV image processing functions like rotation, morphological methods(erosion, dilation, edges detection, and etc.), and etc.
